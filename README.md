@@ -1,8 +1,9 @@
 # python-object-oriented-programming
 
 ### 介紹
-裡面紀錄我 python 物件導向 (object orientation) 語法的練習
-1. 包含封裝 (enpsulation)、繼承 (inheritance)、多型 (polymorphism)，Encapsulation-Inheritance-Polymorphism 檔案為以下部落格的程式碼:
+裡面紀錄我 python 物件導向 (object orientation) 語法的練習，包含封裝 (enpsulation)、繼承 (inheritance)、多型 (polymorphism)。
+
+Encapsulation-Inheritance-Polymorphism 檔案為以下部落格的程式碼:
    [[Python]-封裝 (Encapsulation): 物件導向的三大特色之一](https://medium.com/@leo122196/python-%E5%B0%81%E8%A3%9D-encapsulation-%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E7%9A%84%E4%B8%89%E5%A4%A7%E7%89%B9%E8%89%B2%E4%B9%8B%E4%B8%80-9196f8aa4ef6)
 
    [[Python]-繼承 (Inheritance): 物件導向的三大特色之一](https://medium.com/@leo122196/python-%E7%B9%BC%E6%89%BF-inheritance-%E7%89%A9%E4%BB%B6%E5%B0%8E%E5%90%91%E7%9A%84%E4%B8%89%E5%A4%A7%E7%89%B9%E8%89%B2%E4%B9%8B%E4%B8%80-433891ad8423)
